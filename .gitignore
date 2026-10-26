@@ -5,3 +5,6 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# local only
+progress-report.docx
